@@ -1,1 +1,1 @@
-# Minimal-Blog-Card
+A card created with HTML and CSS for a devChallenges challenge. This card contains texts, an image and a username. The card is made with a modern and attractive design to capture the user's attention.
